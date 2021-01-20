@@ -540,10 +540,15 @@ async function getUserDetail(){
         return users[0].name;
     }
     catch (err) {
-        return {
+        return {s
             name: 'default user'
         };
     }
 }
 
 ```
+- async/await은 nodejs, 브라우저 프로그래머들 모두 매우 좋은 문법적인 개선이다. 
+    - 프로미스와 비교해서, 같은 목적지에 도달할 수 있는 지름길이다. 
+    - 개발자가 자바스크립트 에서 함수형 프로그래밍을 구현할 수 있게 도와주며, 코드 가독성, javascript를 더 재미있게 만들어 준다. 
+
+- Async & Await를 이해하기 위해선 프로미스를 이해해야 한다. 

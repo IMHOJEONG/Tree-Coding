@@ -22,3 +22,16 @@
     - https://exploringjs.com/es6/ch_promises.html
 
     - https://www.phpied.com/3-ways-to-define-a-javascript-class/
+
+    - https://ko.javascript.info/prototype-inheritance
+
+## 회사 기술 공유 블로그들 
+
+- https://meetup.toast.com/?page=15 : 
+
+    - https://meetup.toast.com/posts/85
+
+
+## 전역 스코프를 오염시키면 안 되는 이유 & 설정 방법 
+
+- https://tech.kakao.com/2020/12/01/frontend-growth-02/
